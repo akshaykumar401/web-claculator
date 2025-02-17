@@ -1,6 +1,6 @@
 # Hey This is Web browser Calculator.
 
-- You Can Cheak This Project in This URL [Google](https://www.google.com)
+- You Can Cheak This Project in This URL [Web-Calculator](https://akshaykumar401.github.io/web-claculator/)
 
 ## Project Language and Technology Used.
 
