@@ -1,3 +1,3 @@
 # Hey This is Web browser Calculator.
 
-- [https://www.google.com] google
+- [Google](https://www.google.com)
