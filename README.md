@@ -4,9 +4,9 @@
 
 ## Project Language and Technology Used.
 
-- HTML -> HTML used for All The Basic Structure of Calculator.
-- CSS -> CSS used for All Styling The Component for There Position.
-- JS -> JS used for Givig Logic in Every Click.
+- **HTML** -> HTML used for All The Basic Structure of Calculator.
+- **CSS** -> CSS used for All Styling The Component for There Position.
+- **JS** -> JS used for Givig Logic in Every Click.
 
 ## Project Theme
 
